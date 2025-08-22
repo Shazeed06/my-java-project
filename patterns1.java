@@ -2,8 +2,7 @@ import java.util.*;
 
 public class patterns1 {
     public static void main(String[] args) {
-        // This is a placeholder for the patterns1 class
-        // You can add methods or functionality as needed
+        // Example pattern: Inverted Number Pyramid
         int n = 4; // Example value
         int m = 5;
         for (int i = 1; i <= n; i++) {
